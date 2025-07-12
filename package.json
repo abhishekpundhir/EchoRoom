@@ -1,0 +1,20 @@
+{
+  "name": "echoroom",
+  "version": "1.0.0",
+  "description": "Private, real-time video conferencing and chat app — secure, sleek, and built for the new digital vibe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekpundhir/EchoRoom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekpundhir/EchoRoom/issues"
+  },
+  "homepage": "https://github.com/abhishekpundhir/EchoRoom#readme"
+}
